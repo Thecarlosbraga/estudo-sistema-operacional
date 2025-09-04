@@ -1,5 +1,4 @@
-# estudo-sistema-operacional
-🎓 Estudando Sistema Operacional na faculdade   🖋️ Praticando fluxogramas com Mermaid por conta própria   💡 Aplicado e em constante aprendizado 🚀
+
 # 🎓 Estudos de Sistema Operacional (SO)
 
 Este repositório reúne meus estudos sobre **Sistema Operacional**, aprendidos na faculdade, e **prática de Mermaid** para criar fluxogramas e organizar visualmente os conceitos 🚀
