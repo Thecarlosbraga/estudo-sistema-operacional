@@ -2,6 +2,8 @@
 
 Este repositório reúne meus estudos sobre **Sistema Operacional**, aprendidos na faculdade, e minha prática com **Mermaid** para criar fluxogramas 🚀
 
+🖥️ Sistema Operacional (SO): é o programa chefe do computador que gerencia o hardware (CPU, memória, periféricos) e coordena os aplicativos que você usa, garantindo que tudo funcione ao mesmo tempo de forma organizada.
+
 ---
 
 ## 🖥️ Sistema Operacional e os 4 Componentes
