@@ -25,6 +25,7 @@ flowchart TD
 
 ```mermaid
 flowchart TD
+    intro["📝 Este diagrama mostra como o usuário interage com o Sistema Operacional e executa diferentes aplicativos ao mesmo tempo, como Steam 🎮 e Spotify 🎵."]
     U["👤 Usuário"] --> SO["🖥️ Sistema Operacional (SO)"]
 
     SO --> H["⚙️ Hardware"]
