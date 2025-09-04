@@ -21,4 +21,29 @@ flowchart TD
     n3 --> n7["Gerencia o hardware e coordena os aplicativos."]
     n4 --> n8["Softwares usados para resolver problemas ou realizar tarefas."]
     n5 --> n9["Quem interage com o sistema: pessoas, máquinas ou outros computadores."]
+```
+
+```mermaid
+flowchart TD
+    U["👤 Usuário"] --> SO["🖥️ Sistema Operacional (SO)"]
+
+    SO --> H["⚙️ Hardware"]
+    SO --> A1["🎮 Steam (Jogando)"]
+    SO --> A2["🎵 Spotify (Música)"]
+
+    H --> CPU["🧮 CPU"]
+    H --> RAM["💾 Memória RAM"]
+    H --> GPU["🎨 Placa de Vídeo"]
+    H --> Audio["🔊 Placa de Som"]
+
+    A1 -->|usa| CPU
+    A1 -->|usa| GPU
+    A1 -->|usa| RAM
+
+    A2 -->|usa| CPU
+    A2 -->|usa| RAM
+    A2 -->|usa| Audio
+```
+
+
 
