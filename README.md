@@ -5,6 +5,8 @@ Este repositório reúne meus estudos sobre **Sistema Operacional**, aprendidos 
 
 ---
 
+
+
 ## 🖥️ Sistema Operacional e os 4 Componentes
 
 Aqui está um diagrama mostrando os principais componentes de um sistema computacional:
